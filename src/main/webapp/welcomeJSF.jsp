@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit para el fork 18 de Julio 2025 Hora 19:42 PM Alumno Freddy Chura" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Instalacion Automatica en Tomcat fecha 20 de Julio 2025 Hora 16:00 PM Alumno Freddy Chura" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
